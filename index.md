@@ -133,11 +133,11 @@
 
 iPhone の場合の設定方法
 
-![ios-accessibility](./images/ios-accessibility.png)
+![ios_accessibility](./images/001_ios_accessibility.png)
 
 Android の場合の設定方法
 
-![android-accessibility](./images/android-accessibility.png)
+![android_accessibility](./images/002_android_accessibility.png)
 
 自分が普段使っているデバイスは Android で TalkBack を使っていまして、iPhone の**読み上げコンテンツ**機能に関する詳細は割愛します。  
 下記で説明するコンテンツの読み上げは kindle での使い方を例にしていますので、詳しく知りたい方は kindle の読み上げ機能を使用してコンテンツを聞く[^6]を参考にしていただければ幸いです。
@@ -146,16 +146,16 @@ Android の場合の設定方法
 
 Android の場合、TalkBack をオンにすると、どの UI 要素にフォーカスが当たっているのかを振動や色付きの枠で知らせてくれます。一度オンにすると、タップで UI の選択、ダブルタップでその UI 要素に対して一般的なタップ操作を行うことができます。
 
-![android-talkback](./images/android-talkback.png)
+![android_talkback](./images/003_android_talkback.png)
 
 また、TalkBack を設定からその都度起動するのではなく、ユーザー補助機能ボタンのショートカットとして登録しておけば、読み上げ機能を使いたいアプリを起動してから即座に使用することもできます。
 
-![android-accessibility-shortcut](./images/android-accessibility-shortcut.png)
+![android_accessibility_shortcut](./images/004_android_accessibility_shortcut.png)
 
 この状態で文字を読み上げてほしいアプリを起動し、ショートカットで TalkBack をオンにすると、文字として認識できるコンテンツであれば、読み上げてくれます。  
 自分がよく使う Kindle の場合、「Text-to-Speech（テキスト読み上げ機能）」が有効になっている電子書籍であれば、読み上げ機能を使用することができます。
 
-![kindle-text-to-speech](./images/kindle-text-to-speech.png)
+![kindle_text_to_speech](./images/005_kindle_text_to_speech.png)
 
 使い方のイメージとしては、Kindle を起動してから TalkBack を起動します。  
 すると、以下のように電子書籍が選択された状態になりますので、ダブルタップすると電子書籍が開かれます。（例として挙げている書籍は Forte さんの『入門！実践！サーバーサイド Kotlin』[^7]です。）  
@@ -165,7 +165,7 @@ Android の場合、TalkBack をオンにすると、どの UI 要素にフォ�
 
 [^7]: <https://www.amazon.co.jp/dp/B082H8GWMR>
 
-![android-talkback-kindle](./images/android-talkback-kindle.png)
+![android_talkback_kindle](./images/006_android_talkback_kindle.png)
 
 読み上げ機能を知ってからは、積読していた本を少しずつ消化できるようになり、最近は通勤時によく活用しています。  
 目を使わずに新しい情報をインプットできる点も大きなメリットですが、以下の 3 つのメリットも感じています。
