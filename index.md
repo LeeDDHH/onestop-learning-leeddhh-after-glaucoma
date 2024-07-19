@@ -1,4 +1,4 @@
-## 緑内障になってからの心境の変化とインプット方法
+## 緑内障になってから変わった心境とインプット方法
 
 <p align="right">
 <strong>李東憲 (DongHeon Lee) X: @camomile_cafe &amp; github: @LeeDDHH</strong>
